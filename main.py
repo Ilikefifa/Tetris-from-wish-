@@ -1,6 +1,4 @@
-# TODO: 1. 게임 사이즈 설정
-# TODO: 2. Shapes설정
-# TODO: 3. 색깔 설정 및 코드 작성
+
 import tkinter as tk
 from random import choice, randrange
 
